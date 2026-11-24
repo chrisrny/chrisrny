@@ -1,4 +1,4 @@
-<h1 align="center">Christophe Ajaonarivony</h1>
+<h1 align="center">Christophe Rajaonarivony</h1>
 
 <p align="center">
   Étudiant en Data & IA à Epitech Mulhouse
